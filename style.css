@@ -1,0 +1,25 @@
+h1{
+    margin:100px;
+    margin-left: 400px;  
+    font-style: italic;
+    font-size: 80px;
+}
+body{
+    background-color:whitesmoke;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    border:20px;
+    background-color: rgb(148, 187, 104);
+    justify-content: space-around;
+}
+.description p{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius:10px;
+}
